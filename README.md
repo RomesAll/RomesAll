@@ -12,16 +12,17 @@
 
 | Образовательное учреждение | Форма обучения | Срок обучения |
 |:--------------------------:|:---------------:|:-------------:|
-|Мурманский Колледж Экономики и Информационных Технологий| Очная | 2019-2022 г.|
-| Мурманский Арктический Университет |Заочная| 2023-2028 г.|
+|[Мурманский Колледж Экономики и Информационных Технологий](https://mkeiit.ru/)| Очная | 2019-2022 г.|
+| [Мурманский Арктический Университет](https://mauniver.ru/) |Заочная| 2023-2028 г.|
+
+
+:thought_balloon: Технологии:
+---------------
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,django,docker,fastapi,git,html,js,linux,mysql,css )]()
+
 
 
 :clipboard: Пройденные курсы и изученные материалы:
 ---------------
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-
-:thought_balloon: Социальные сети:
----------------
-
-<p style="text-align: center;">[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)</p>
