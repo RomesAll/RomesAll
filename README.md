@@ -18,7 +18,7 @@
 
 :thought_balloon: Технологии:
 ---------------
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,django,docker,fastapi,git,html,js,linux,mysql,css )]
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,django,docker,fastapi,git,html,js,linux,mysql,css )]()
 
 
 
