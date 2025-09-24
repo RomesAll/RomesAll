@@ -2,7 +2,7 @@
 # **Добро пожаловать в мой профиль** 👻
 
 <video width="320" height="240" controls>
-  <source src="/0_Spider_Cute_3840x2160.mp4" type="video/mp4">
+  <source src="0_Spider_Cute_3840x2160.mp4" type="video/mp4">
 </video>
 
 ## *О себе* :
