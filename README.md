@@ -24,22 +24,30 @@ echo "Также я еще увлекаюсь Data Science и Machine Learning, 
 echo "Best wishes, Roman 👋" >> about_me.txt
 ```
 
-## Стек технологий :
+## *Стек технологий* :
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,git,html,css,js,postgresql,redis,rabbitmq,docker,nginx,linux)]()
 
-## :books: Мое образование:
+## *Мое образование*:
 
 | Образовательное учреждение | Форма обучения | Срок обучения |
 |:--------------------------:|:---------------:|:-------------:|
 |[Мурманский Колледж Экономики и Информационных Технологий](https://mkeiit.ru/)| Очная | 2019-2022 г.|
 | [Мурманский Арктический Университет](https://mauniver.ru/) |Заочная| 2023-2028 г.|
 
-## :octocat: Мои проекты (в разработке):
+## *Кого смотрю* :
 
-[Первый проект](https://mkeiit.ru/)\
-[Второй проект](https://mkeiit.ru/)\
-[Третий проект](https://mkeiit.ru/)
+1. Сурен Хоренян: https://www.youtube.com/@SurenKhorenyan/videos
+2. Сергей Балакирев: https://www.youtube.com/@selfedu_rus 
+3. Николай Свиридов: https://www.youtube.com/@luchanos
+4. Олег Молчанов: https://www.youtube.com/@zaemiel
+5. Влад Мишустин: https://www.youtube.com/@fakng-engineer
+6. S0ER: https://www.youtube.com/@S0ERDEVS
+7. Merion Academy: https://www.youtube.com/@merionacademy
+8. Артём Шумейко: https://www.youtube.com/@artemshumeiko
+9. Python Hub Studio: https://www.youtube.com/@PythonHubStudio
+10. Диджитализируй!: https://www.youtube.com/@t0digital
+11. Ulbi TV: https://www.youtube.com/@UlbiTV
+12. Гоша Дударь: https://www.youtube.com/c/gosha_dudar
 
-## Кого смотрю
-
+## *Мои проекты (в разработке)* :
