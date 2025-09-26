@@ -2,7 +2,7 @@
 
 ## *О себе* :
 
-<img src="rounded-in-photoretrica.png" align="right" width="25%"/>
+<img src="rounded-in-photoretrica2.png" align="right" width="25%"/>
 
 ```python
 printf "\033c"
