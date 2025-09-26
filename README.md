@@ -37,7 +37,7 @@ echo "Best wishes, Roman 👋" >> about_me.txt
 | [Мурманский Арктический Университет](https://mauniver.ru/) |Заочная| 2023-2028 г.|
 
 ## *Кого смотрю* :
-
+<img src="8029073.jpg" align="right" width="26%"/>
 - Сурен Хоренян: https://www.youtube.com/@SurenKhorenyan/videos
 - Сергей Балакирев: https://www.youtube.com/@selfedu_rus
 - Николай Свиридов: https://www.youtube.com/@luchanos
