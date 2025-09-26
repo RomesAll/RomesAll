@@ -1,7 +1,7 @@
 
 # **Добро пожаловать в мой профиль** 👻
 
-<img src="[https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif](https://media1.tenor.com/m/5gOeuHmLaLoAAAAC/spongebob-wipe.gif)" height="40" />
+<img src="https://media1.tenor.com/m/5gOeuHmLaLoAAAAC/spongebob-wipe.gif" height="40" />
 
         
 ## *О себе* :
