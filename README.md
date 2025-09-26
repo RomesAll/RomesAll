@@ -1,8 +1,8 @@
 
 # **Добро пожаловать в мой профиль** 👻
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/dQw4w9WgXcQ](https://www.youtube.com/watch?v=BrUjLG5i-pM)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<video src="https://www.youtube.com/watch?v=BrUjLG5i-pM" width="400" height="300" preload controls loop><p>Играющие щенки</p></video>
+        
 ## *О себе* :
 ```python
 printf "\033c"
