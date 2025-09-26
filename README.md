@@ -1,9 +1,7 @@
 
 # **Добро пожаловать в мой профиль** 👻
-<script
-  src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.1/dist/dotlottie-wc.js"
-  type="module"
-></script>
+
+<img src="https://pin.it/6t7dqcHUo" height="40" />
 
 ## *О себе* :
 ```python
