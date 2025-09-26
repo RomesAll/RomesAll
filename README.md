@@ -1,3 +1,5 @@
+<img src="rounded-in-photoretrica (5).png" align="right" width="100%"/>
+
 # **Добро пожаловать в мой профиль**
 
 ## *О себе* :
