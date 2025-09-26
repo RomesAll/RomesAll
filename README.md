@@ -3,7 +3,7 @@
 
 <img src="7629124.jpg" align="right" width="25%"/>
 
-<code font_size="5">
+<code style="font-size: 14px;">
  print('hh');
 </code>
 ## *О себе* :
