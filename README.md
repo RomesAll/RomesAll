@@ -1,7 +1,7 @@
 # **Добро пожаловать в мой профиль** 👻
 
 ## *О себе* :
-<img src="6593509.jpg" align="right" width="25%" height="75%"/>
+<img src="6593509.jpg" align="right" width="35%"/>
 
 ```python
 printf "\033c"
