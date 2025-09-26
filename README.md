@@ -1,5 +1,5 @@
 # **Добро пожаловать в мой профиль**
-<img src="rounded-in-photoretrica (6).png" align="center" width="100%"/>
+<img src="rounded-in-photoretrica (6).png" align="center" width="90%"/>
 
 ## *О себе* :
 
@@ -40,7 +40,6 @@ echo "P.S. Люблю звуки падающих тестов по утрам "
 | [Мурманский Арктический Университет](https://mauniver.ru/) |Заочная| 2023-2028 г.|
 
 ## *Кого смотрю* :
-<img src="rounded-in-photoretrica (1).png" align="right" width="25%"/>
 
 - Сурен Хоренян: https://www.youtube.com/@SurenKhorenyan/videos
 - Сергей Балакирев: https://www.youtube.com/@selfedu_rus
