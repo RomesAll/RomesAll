@@ -1,5 +1,5 @@
 # **Добро пожаловать в мой профиль**
-<img src="rounded-in-photoretrica (6).png" align="center" width="30%"/>
+<img src="rounded-in-photoretrica (6).png" align="center" width="60%"/>
 
 ## *О себе* :
 
