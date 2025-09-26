@@ -3,6 +3,9 @@
 
 <img src="7629124.jpg" align="right" width="25%"/>
 
+<code>
+ print('hh');
+</code>
 ## *О себе* :
 ```python
 printf "\033c"
