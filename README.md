@@ -1,5 +1,6 @@
 <div align="center">
-        <b>Добро пожаловать в мой профиль**</b>
+        <h1>Добро пожаловать в мой профиль**</h1>
+        
         <img src="rounded-in-photoretrica (6).png" align="center" width="90%"/>
 </div>
 
