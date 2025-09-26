@@ -1,7 +1,8 @@
 
 # **Добро пожаловать в мой профиль** 👻
 
-<video src="https://www.youtube.com/watch?v=BrUjLG5i-pM" width="400" height="300" preload controls loop><p>Играющие щенки</p></video>
+<img src="[https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif](https://media1.tenor.com/m/5gOeuHmLaLoAAAAC/spongebob-wipe.gif)" height="40" />
+
         
 ## *О себе* :
 ```python
