@@ -2,7 +2,7 @@
 
 ## *О себе* :
 
-<img src="14bd3968f8726856e7c713602fad575c.jpg" align="right" width="30%"/>
+<img src="049af9ee108997e43f773f29d19294ec.jpg" align="right" width="30%"/>
 
 ```python
 printf "\033c"
