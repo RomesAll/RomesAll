@@ -1,8 +1,7 @@
 
 # **Добро пожаловать в мой профиль** 👻
 
-<img src="https://pin.it/6t7dqcHUo" height="40" />
-![Uploading 7629124.jpg…]()
+<img src="7629124.jpg" align="right" width="25%"/>
 
 ## *О себе* :
 ```python
