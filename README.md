@@ -2,10 +2,7 @@
 # **Добро пожаловать в мой профиль** 👻
 
 <img src="7629124.jpg" align="right" width="25%"/>
-#<p style="font-size: 20px;">#asdfsd</p>
-<code style="font-size: 20px;">
- print('hh');
-</code>
+
 ## *О себе* :
 ```python
 printf "\033c"
