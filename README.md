@@ -1,4 +1,4 @@
-<img src="rounded-in-photoretrica (6).png" align="center" height="20%"/>
+<img src="rounded-in-photoretrica (6).png" align="center" width="20%"/>
 
 
 # **Добро пожаловать в мой профиль**
