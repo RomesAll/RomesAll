@@ -1,13 +1,6 @@
 
 # **Добро пожаловать в мой профиль** 👻
 
-<img src="https://media1.tenor.com/m/5gOeuHmLaLoAAAAC/spongebob-wipe.gif" height="40" />
-
-
-https://github.com/user-attachments/assets/dcb92cea-bc25-4f79-815c-5210f4e8ed86
-
-
-        
 ## *О себе* :
 ```python
 printf "\033c"
