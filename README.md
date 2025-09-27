@@ -33,7 +33,7 @@ echo "P.S. Люблю звуки падающих тестов по утрам "
 
 ## *Стек технологий* :
 
-<img width="1787" height="782" alt="image" src="stack.png" />
+<img width="1787" height="782" alt="image" src="https://github.com/user-attachments/assets/11e133ff-68e0-4e96-9aa2-c398efee9ec8" />
 
 ## *Мое образование*:
 
