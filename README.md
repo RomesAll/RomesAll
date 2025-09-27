@@ -33,7 +33,7 @@ echo "P.S. Люблю звуки падающих тестов по утрам "
 
 ## *Стек технологий* :
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,git,html,css,js,postgresql,redis,rabbitmq,docker,nginx,linux)]()
+<img width="1787" height="782" alt="image" src="https://github.com/user-attachments/assets/fce66a67-5f73-435c-be01-3f644294d6a3" />
 
 ## *Мое образование*:
 
