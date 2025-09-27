@@ -1,12 +1,12 @@
 <div align="center">
 <h1>Добро пожаловать в мой профиль</h1>
 
-<img src="rounded-in-photoretrica (7).png" align="center" width="100%"/>
+<img src="profile_img_main.png" align="center" width="100%"/>
 </div>
 
 ## *О себе* :
 
-<img src="rounded-in-photoretrica (3).png" align="right" width="25%"/>
+<img src="profile_img_bio.png" align="right" width="25%"/>
 
 ```python
 printf "\033c"
@@ -33,7 +33,7 @@ echo "P.S. Люблю звуки падающих тестов по утрам "
 
 ## *Стек технологий* :
 
-<img width="1787" height="782" alt="image" src="https://github.com/user-attachments/assets/fce66a67-5f73-435c-be01-3f644294d6a3" />
+<img width="1787" height="782" alt="image" src="stack.png" />
 
 ## *Мое образование*:
 
