@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Добро пожаловать в мой профиль</h1>
 
-<img src="rounded-in-photoretrica (7).png" align="center" width="90%"/>
+<img src="rounded-in-photoretrica (7).png" align="center" width="100%"/>
 </div>
 
 ## *О себе* :
