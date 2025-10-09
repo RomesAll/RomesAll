@@ -1,9 +1,6 @@
 <div align="center">
 <h1>Добро пожаловать в мой профиль</h1>
 
-<img src="profile_img_main.png" align="center" width="100%"/>
-</div>
-
 ## *О себе* :
 
 <img src="profile_img_bio.png" align="right" width="25%"/>
