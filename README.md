@@ -9,7 +9,7 @@ printf "\033c"
 
 echo "Привет, меня зовут Роман" >> about_me.txt
 
-echo "Я занимаюсь backend разработкой на python с 2024 года" >> about_me.txt
+echo "Я занимаюсь backend разработкой на python " >> about_me.txt
 
 echo "В своих проектах я обычно использую framework Fastapi" >> about_me.txt
 
