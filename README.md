@@ -52,5 +52,6 @@ echo "P.S. Люблю звуки падающих тестов по утрам "
 - Диджитализируй!: https://www.youtube.com/@t0digital
 - Ulbi TV: https://www.youtube.com/@UlbiTV
 - Гоша Дударь: https://www.youtube.com/c/gosha_dudar
+- Yuriy Semyenkov: https://www.youtube.com/@etogeek
 
 ## *Мои проекты (в разработке)* :
