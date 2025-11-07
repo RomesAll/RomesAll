@@ -53,5 +53,6 @@ echo "P.S. Люблю звуки падающих тестов по утрам "
 - Ulbi TV: https://www.youtube.com/@UlbiTV
 - Гоша Дударь: https://www.youtube.com/c/gosha_dudar
 - Yuriy Semyenkov: https://www.youtube.com/@etogeek
+- Python Clinic: https://www.youtube.com/@pythonclinic
 
 ## *Мои проекты (в разработке)* :
