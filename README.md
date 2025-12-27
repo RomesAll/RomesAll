@@ -7,9 +7,7 @@
 
 <img src="output-onlinegiftools.gif" align="right" width="35%" height="90%"/>
 
-<h1>|</h1>
-
-```python
+<code>```python
 printf "\033c"
 
 echo "Привет, меня зовут Роман" >> about_me.txt
@@ -33,7 +31,7 @@ echo "Еще я увлекаюсь Data Science и Machine Learning, \
 echo "Best wishes, Роман" >> about_me.txt
 
 echo "P.S. Люблю звуки падающих тестов по утрам ">> about_me.txt
-```
+```</code>
 
 ## *Стек технологий* :
 
