@@ -14,7 +14,7 @@ echo "Привет, меня зовут Роман" >> about_me.txt
 echo "Я занимаюсь backend разработкой 
 на python " >> about_me.txt
 
-echo "В своих проектах я обычно использую 
+echo "В своих проектах я обычно использую \
 framework Fastapi" >> about_me.txt
 
 echo "Однако, помимо Fastapi, я так же 
