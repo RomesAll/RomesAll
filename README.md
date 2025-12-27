@@ -6,7 +6,7 @@
 <!-- <img src="reze-dance-gif-without-background (1).gif" align="right" width="25%"/> -->
 
 <img src="output-onlinegiftools.gif" align="right" width="35%" height="80%"/>
-<br/>
+<hr width="10px">
 
 ```python
 printf "\033c"
