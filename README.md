@@ -2,7 +2,8 @@
 
 ## *О себе* :
 
-<img src="profile_img_bio.png" align="right" width="25%"/>
+<!-- <img src="profile_img_bio.png" align="right" width="25%"/> -->
+![Uploading chainsaw-man-csm.gif…]()
 
 ```python
 printf "\033c"
