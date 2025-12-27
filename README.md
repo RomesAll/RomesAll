@@ -4,7 +4,7 @@
 
 <!-- <img src="profile_img_bio.png" align="right" width="25%"/> -->
 <!-- <img src="reze-dance-gif-without-background (1).gif" align="right" width="25%"/> -->
-<img src="output-onlinegiftools.gif" align="right" width="25%"/>
+<img src="output-onlinegiftools.gif" align="right" width="25%" height="50%"/>
 
 ```python
 printf "\033c"
