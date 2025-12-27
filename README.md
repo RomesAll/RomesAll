@@ -28,7 +28,7 @@ echo "Еще я увлекаюсь Data Science и Machine Learning, \
 echo "Best wishes, Роман" >> about_me.txt
 echo "P.S. Люблю звуки падающих тестов по утрам ">> about_me.txt
 ```
-<img src="output-onlinegiftools.gif" align="right" width="800" height="600"/>
+<img src="output-onlinegiftools.gif" align="right" width="800" height="500"/>
 
 ## *Стек технологий* :
 
