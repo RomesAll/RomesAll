@@ -4,8 +4,9 @@
 
 <!-- <img src="profile_img_bio.png" align="right" width="25%"/> -->
 <!-- <img src="reze-dance-gif-without-background (1).gif" align="right" width="25%"/> -->
-<img src="" align="right" width="100px" height="80%"/>
+
 <img src="output-onlinegiftools.gif" align="right" width="35%" height="80%"/>
+<img src="" align="right" width="100px" height="80%"/>
 
 ```python
 printf "\033c"
