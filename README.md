@@ -4,7 +4,7 @@
 
 <!-- <img src="profile_img_bio.png" align="right" width="25%"/> -->
 <!-- <img src="reze-dance-gif-without-background (1).gif" align="right" width="25%"/> -->
-
+<img src="output-onlinegiftools.gif" align="right" width="500" height="500"/>
 ```python
 printf "\033c"
 echo "Привет, меня зовут Роман" >> about_me.txt
@@ -28,7 +28,6 @@ echo "Еще я увлекаюсь Data Science и Machine Learning, \
 echo "Best wishes, Роман" >> about_me.txt
 echo "P.S. Люблю звуки падающих тестов по утрам ">> about_me.txt
 ```
-<img src="output-onlinegiftools.gif" align="right" width="500" height="500"/>
 
 ## *Стек технологий* :
 
