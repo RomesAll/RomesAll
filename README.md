@@ -14,9 +14,7 @@ echo "Я занимаюсь backend разработкой на python " \
 
 echo "В своих проектах я обычно использую \
         framework Fastapi" >> about_me.txt
-```
-<img src="output-onlinegiftools.gif" align="right" width="35%" height="90%"/>
-```python
+
 echo "Однако, помимо Fastapi, я так же знаком и \
         с Django, DRF, Flask" >> about_me.txt
 
@@ -30,6 +28,7 @@ echo "Еще я увлекаюсь Data Science и Machine Learning, \
 echo "Best wishes, Роман" >> about_me.txt
 echo "P.S. Люблю звуки падающих тестов по утрам ">> about_me.txt
 ```
+<img src="output-onlinegiftools.gif" align="right" width="800" height="800"/>
 
 ## *Стек технологий* :
 
