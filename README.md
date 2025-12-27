@@ -5,8 +5,6 @@
 <!-- <img src="profile_img_bio.png" align="right" width="25%"/> -->
 <!-- <img src="reze-dance-gif-without-background (1).gif" align="right" width="25%"/> -->
 
-
-
 ```python
 printf "\033c"
 echo "Привет, меня зовут Роман" >> about_me.txt
@@ -16,7 +14,9 @@ echo "Я занимаюсь backend разработкой на python " \
 
 echo "В своих проектах я обычно использую \
         framework Fastapi" >> about_me.txt
-
+```
+<img src="output-onlinegiftools.gif" align="right" width="35%" height="90%"/>
+```python
 echo "Однако, помимо Fastapi, я так же знаком и \
         с Django, DRF, Flask" >> about_me.txt
 
@@ -30,7 +30,6 @@ echo "Еще я увлекаюсь Data Science и Machine Learning, \
 echo "Best wishes, Роман" >> about_me.txt
 echo "P.S. Люблю звуки падающих тестов по утрам ">> about_me.txt
 ```
-<img src="output-onlinegiftools.gif" align="right" width="35%" height="90%"/>
 
 ## *Стек технологий* :
 
