@@ -5,11 +5,12 @@
 <!-- <img src="profile_img_bio.png" align="right" width="25%"/> -->
 <!-- <img src="reze-dance-gif-without-background (1).gif" align="right" width="25%"/> -->
 
-<img src="output-onlinegiftools.gif" align="right" width="33%" height="80%"/>
+<img src="output-onlinegiftools.gif" align="right" width="35%" height="80%"/>
 
 printf "\033c"
 
-echo "Привет, меня зовут Роман" >> about_me.txt
+echo "Привет, меня зовут Роман" >> \
+about_me.txt
 
 echo "Я занимаюсь backend разработкой 
 на python " >> about_me.txt
