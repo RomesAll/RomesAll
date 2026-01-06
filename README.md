@@ -59,3 +59,4 @@ echo "P.S. Люблю звуки падающих тестов по утрам "
 ## *Мои проекты (в разработке)* :
 - auth-form-mini: https://github.com/RomesAll/auth-form-mini
 - converting-json-structures: https://github.com/RomesAll/converting-json-structures
+- service-generate-quotes-jokes: https://github.com/RomesAll/service-generate-quotes-jokes
