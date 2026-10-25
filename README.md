@@ -57,6 +57,7 @@ echo "P.S. Люблю звуки падающих тестов по утрам "
 - Python Clinic: https://www.youtube.com/@pythonclinic
 
 ## *Мои проекты (в разработке)* :
+- чат ws: https://github.com/RomesAll/socket-chat
 - форма авторизации, регистрации: https://github.com/RomesAll/auth-form-mini
 - конвертация json структур: https://github.com/RomesAll/converting-json-structures
 - сервис генерации шуток, цитат: https://github.com/RomesAll/service-generate-quotes-jokes
