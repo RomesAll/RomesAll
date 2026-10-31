@@ -66,7 +66,7 @@ echo "P.S. Люблю звуки падающих тестов по утрам "
 
 <h3>🐍 Стандартная библиотека Python</h3>
 
-`asyncio` &nbsp;&nbsp; `sqlite3` &nbsp;&nbsp; `logging` &nbsp;&nbsp; `re` &nbsp;&nbsp; `typing` &nbsp;&nbsp; `socket`
+`asyncio` &nbsp;&nbsp; `re` &nbsp;&nbsp; `typing` &nbsp;&nbsp; `socket` &nbsp;&nbsp; `multiprocessing` &nbsp;&nbsp; `threading` &nbsp;&nbsp; `os` &nbsp;&nbsp; `sys` &nbsp;&nbsp; `collections` &nbsp;&nbsp; `itertools` &nbsp;&nbsp; `functools`
 
 <h3>🌐 Веб-фреймворки и API</h3>
 
@@ -90,7 +90,7 @@ echo "P.S. Люблю звуки падающих тестов по утрам "
 
 <h3>📊 Наблюдаемость и Логирование</h3>
 
-`structlog`
+`structlog` &nbsp;&nbsp; `logging`
 
 <h3>✅ Валидация данных</h3>
 
