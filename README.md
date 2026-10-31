@@ -8,7 +8,7 @@
   </picture>
 </p>
 
-<h2 align="center"> // О себе //</h1>
+<h2 align="center"> О себе </h1>
 
 <table>
   <tr>
@@ -43,7 +43,7 @@ echo "P.S. Люблю звуки падающих тестов по утрам "
 
 &nbsp;&nbsp;
 &nbsp;&nbsp;
-<h2 align="center"> // Стек технологий //</h2>
+<h2 align="center"> Стек технологий </h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
