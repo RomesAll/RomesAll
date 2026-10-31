@@ -38,7 +38,7 @@ echo "Best wishes, Роман" >> about_me.txt
 echo "P.S. Люблю звуки падающих тестов по утрам ">> about_me.txt
 ```
 </td> <td width="40%" valign="center">
-  <img alt="mxj_files-bat-23037" src="https://github.com/user-attachments/assets/5de5e461-a558-4b2a-8e31-bc591f34dc16" />
+  <img alt="mxj_files-skull-23248" src="https://github.com/user-attachments/assets/27c8522b-2f09-4515-aa9c-299c7ba33650" />
 </td> </tr> </table>
 
 
