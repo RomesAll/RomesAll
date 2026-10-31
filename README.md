@@ -1,6 +1,10 @@
 <h1>Добро пожаловать в мой профиль</h1>
 
-![GitHub Snake](https://githubusercontent.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="GitHub Snake" src="https://githubusercontent.com">
+</picture>
 
 
 ![MarioCoder](https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8)
