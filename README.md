@@ -32,7 +32,43 @@ echo "Еще я увлекаюсь Data Science и Machine Learning, \
 
 echo "Best wishes, Роман" >> about_me.txt
 echo "P.S. Люблю звуки падающих тестов по утрам ">> about_me.txt
+
 ```
+
+## *О себе* :
+
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      
+```python
+printf "\033c"
+echo "Привет, меня зовут Роман" >> about_me.txt
+
+echo "Я занимаюсь backend разработкой на python " \
+        >> about_me.txt
+
+echo "В своих проектах я обычно использую \
+        framework Fastapi" >> about_me.txt
+
+echo "Однако, помимо Fastapi, я так же знаком и \
+        с Django, DRF, Flask" >> about_me.txt
+
+echo "Frontend'ом, как правило, не занимаюсь, потому что от html/css \
+        верстки меня почему-то подташнивает 😀" >> about_me.txt
+
+echo "Еще я увлекаюсь Data Science и Machine Learning, \
+        т.к. мне нравиться манипулировать данными и применять \
+        разделы выш. мата на практике 😎" >> about_me.txt
+
+echo "Best wishes, Роман" >> about_me.txt
+echo "P.S. Люблю звуки падающих тестов по утрам ">> about_me.txt
+```
+</td> <td width="30%" valign="top">
+  <img width="1200" height="1200" alt="mxj_files-bat-23037" src="https://github.com/user-attachments/assets/5de5e461-a558-4b2a-8e31-bc591f34dc16" />
+</td> </tr> </table>
+
+
 
 ## *Стек технологий* :
 
