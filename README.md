@@ -1,6 +1,6 @@
 <h1>Добро пожаловать в мой профиль</h1>
 
-![GitHub Snake](https://raw.githubusercontent.com/RomesAll/RomesAll/output/ocean.gif)
+![GitHub Snake](https://raw.githubusercontent.com/RomesAll/RomesAll/output/github-contribution-grid-snake.gif)
 
 
 ![MarioCoder](https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8)
