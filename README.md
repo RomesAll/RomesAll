@@ -88,7 +88,7 @@ echo "P.S. Люблю звуки падающих тестов по утрам "
 
 `passlib` &nbsp;&nbsp; `pyjwt` &nbsp;&nbsp; `authlib`
 
-<h3>📊 Наблюдаемость и Логирование</h3>
+<h3>📊 Логирование</h3>
 
 `structlog` &nbsp;&nbsp; `logging`
 
