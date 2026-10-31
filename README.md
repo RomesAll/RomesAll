@@ -1,6 +1,6 @@
 <h1>Добро пожаловать в мой профиль</h1>
 
-![S8uBZe](https://github.com/user-attachments/assets/d31c35ba-9380-456f-b3d4-033fae26421e)
+![MarioCoder](https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8)
 
 ## *О себе* :
 
