@@ -8,7 +8,7 @@
   </picture>
 </p>
 
-## *О себе* :
+<h2 align="center"> // О себе //</h1>
 
 <table>
   <tr>
@@ -41,20 +41,85 @@ echo "P.S. Люблю звуки падающих тестов по утрам "
   <img alt="mxj_files-skull-23248" src="https://github.com/user-attachments/assets/27c8522b-2f09-4515-aa9c-299c7ba33650" />
 </td> </tr> </table>
 
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+<h2 align="center"> // Стек технологий //</h2>
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" title="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="50" title="RabbitMQ" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
+  <img src="https://proicons.com/icon/15159.svg" width="50" title="Redis" />
+</div>
 
-## *Стек технологий* :
+&nbsp;&nbsp;
+&nbsp;&nbsp;
 
-<img width="918" height="674" alt="image" src="https://github.com/user-attachments/assets/1e79993b-bba1-49d4-97d5-27affa59404b" />
+<div align="center">
 
-## *Мое образование*:
+<h3>🐍 Стандартная библиотека Python</h3>
+
+`asyncio` &nbsp;&nbsp; `sqlite3` &nbsp;&nbsp; `logging` &nbsp;&nbsp; `re` &nbsp;&nbsp; `typing` &nbsp;&nbsp; `socket`
+
+<h3>🌐 Веб-фреймворки и API</h3>
+
+`fastapi`
+
+<h3>🗄️ Базы данных</h3>
+
+`sqlalchemy` &nbsp;&nbsp; `redis` &nbsp;&nbsp; `pymongo` &nbsp;&nbsp; `motor` &nbsp;&nbsp; `alembic`
+
+<h3>🚀 Серверы и запуск (ASGI/WSGI)</h3>
+
+`uvicorn` &nbsp;&nbsp; `gunicorn`
+
+<h3>📡 HTTP-клиенты</h3>
+
+`requests` &nbsp;&nbsp; `httpx`
+
+<h3>🔐 Безопасность и аутентификация</h3>
+
+`passlib` &nbsp;&nbsp; `pyjwt` &nbsp;&nbsp; `authlib`
+
+<h3>📊 Наблюдаемость и Логирование</h3>
+
+`structlog`
+
+<h3>✅ Валидация данных</h3>
+
+`pydantic`
+
+<h3>⚙️ Очереди и брокеры</h3>
+
+`celery` &nbsp;&nbsp; `pika`
+
+<h3>🧪 Тестирование и качество кода</h3>
+
+`pytest` &nbsp;&nbsp; `ruff`
+
+</div>
+
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+
+<h2 align="center"> // Мое образование //</h2>
 
 | Образовательное учреждение | Форма обучения | Срок обучения |
 |:--------------------------:|:---------------:|:-------------:|
 |[Мурманский Колледж Экономики и Информационных Технологий](https://mkeiit.ru/)| Очная | 2018-2022 г.|
 | [Мурманский Арктический Университет](https://mauniver.ru/) |Заочная| 2023-2028 г.|
 
-## *Кого смотрю* :
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+
+## Кого смотрю :
 
 - Сурен Хоренян: https://www.youtube.com/@SurenKhorenyan/videos
 - Сергей Балакирев: https://www.youtube.com/@selfedu_rus
@@ -71,7 +136,7 @@ echo "P.S. Люблю звуки падающих тестов по утрам "
 - Yuriy Semyenkov: https://www.youtube.com/@etogeek
 - Python Clinic: https://www.youtube.com/@pythonclinic
 
-## *Мои проекты (в разработке)* :
+## Мои проекты (в разработке) :
 - чат ws: https://github.com/RomesAll/socket-chat
 - реализация красно-черного дерева: https://github.com/RomesAll/red-black-tree
 - форма авторизации, регистрации: https://github.com/RomesAll/auth-form-mini
