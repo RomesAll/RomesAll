@@ -1,5 +1,9 @@
 <h1>Добро пожаловать в мой профиль</h1>
 
+
+![S8uBZe](https://github.com/user-attachments/assets/d31c35ba-9380-456f-b3d4-033fae26421e)
+
+
 ## *О себе* :
 
 <img src="profile_img_bio.png" align="right" width="25%"/> 
