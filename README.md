@@ -109,7 +109,7 @@ echo "P.S. Люблю звуки падающих тестов по утрам "
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 
-<h2 align="center"> // Мое образование //</h2>
+## Мое образование :
 
 | Образовательное учреждение | Форма обучения | Срок обучения |
 |:--------------------------:|:---------------:|:-------------:|
@@ -135,6 +135,9 @@ echo "P.S. Люблю звуки падающих тестов по утрам "
 - Гоша Дударь: https://www.youtube.com/c/gosha_dudar
 - Yuriy Semyenkov: https://www.youtube.com/@etogeek
 - Python Clinic: https://www.youtube.com/@pythonclinic
+
+&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 ## Мои проекты (в разработке) :
 - чат ws: https://github.com/RomesAll/socket-chat
